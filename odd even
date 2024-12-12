@@ -10,6 +10,12 @@ fgkmdb,c
 dghbvc
 dsjgnmb kjsdban kjasbhdmn ajsdb m,
 
+x = 5
+y = "John"
+print(x)
+print(y)
+
+
 
 htrfmhgvb
    print("{0} is Odd".format(num))
